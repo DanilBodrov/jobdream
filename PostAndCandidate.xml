@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<map>
+    <candidates>
+        <candidate name="Tom" description="Без опыта"/>
+        <candidate name="Bob" description="Без опыта"/>
+        <candidate name="Юлия" description="Опыт год"/>
+    </candidates>
+    <posts>
+        <post name="Java" description="Middle" city_id="1" city="Москва"/>
+        <post name="C#" description="Middle" city_id="2" city="Санкт-Петербург"/>
+        <post name="PHP" description="Middle" city_id="3" city="Екатеринбург"/>
+    </posts>
+</map>
